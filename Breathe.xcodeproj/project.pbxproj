@@ -12,6 +12,7 @@
 		3CB2AFAB2C0689B800ADAF9B /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CB2AFAA2C0689B800ADAF9B /* Item.swift */; };
 		3CB2AFAD2C0689B900ADAF9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CB2AFAC2C0689B900ADAF9B /* Assets.xcassets */; };
 		3CB2AFB02C0689B900ADAF9B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CB2AFAF2C0689B900ADAF9B /* Preview Assets.xcassets */; };
+		3CB2AFB72C068A5900ADAF9B /* Background.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CB2AFB62C068A5900ADAF9B /* Background.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		3CB2AFAA2C0689B800ADAF9B /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		3CB2AFAC2C0689B900ADAF9B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3CB2AFAF2C0689B900ADAF9B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3CB2AFB62C068A5900ADAF9B /* Background.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Background.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				3CB2AFA62C0689B800ADAF9B /* BreatheApp.swift */,
 				3CB2AFA82C0689B800ADAF9B /* ContentView.swift */,
+				3CB2AFB62C068A5900ADAF9B /* Background.swift */,
 				3CB2AFAA2C0689B800ADAF9B /* Item.swift */,
 				3CB2AFAC2C0689B900ADAF9B /* Assets.xcassets */,
 				3CB2AFAE2C0689B900ADAF9B /* Preview Content */,
@@ -142,6 +145,7 @@
 			files = (
 				3CB2AFA92C0689B800ADAF9B /* ContentView.swift in Sources */,
 				3CB2AFAB2C0689B800ADAF9B /* Item.swift in Sources */,
+				3CB2AFB72C068A5900ADAF9B /* Background.swift in Sources */,
 				3CB2AFA72C0689B800ADAF9B /* BreatheApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
